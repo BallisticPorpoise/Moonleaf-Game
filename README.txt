@@ -15,3 +15,9 @@ As progress has moved rather quickly over the last few weeks, there's a lot to c
 - Enemy AI
 
 Thank you again for playing, and please remember to @dev in the planning channel of the discord with a list of fixes and improvements so we can find them!
+
+BONUS NOTES FROM NATE'S TESTING (15/07):
+- Respawn should be at the entrance you use into an area, so you don't spawn in a cluster of enemies
+- Cursor should no longer appear while the game is paused
+- Enemies should be unable to move once the player has interacted with a beacon
+- Wall art has been changed to a different style - I would love feedback on how the walls look for this iteration
